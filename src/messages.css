@@ -1,0 +1,51 @@
+.query{
+    align-items: center;
+    width: 100%;
+}
+.ico{
+    width: fit-content;
+    align-items: center;
+    justify-self: center;
+    display: flex;
+    margin:auto;
+    margin-top: 20px;
+}
+.ico img{
+    margin: 10px;
+    width: 30px;
+}
+
+.messcontent{
+    
+    margin: auto;
+    margin-top: 30px;
+    padding: 30px;
+    width: 70%;
+    height: fit-content;
+    background-color: #ddeaff;
+    border-radius: 20px;
+}
+.messcard{
+    
+    border-radius: 10px;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    height: fit-content;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.messcardimg{
+    width: 70px;
+    margin-right: 20px;
+    border-radius:50% ;
+    overflow: hidden;
+}
+.messcardimg img{
+    width: 100%;
+    object-fit: fill;
+    
+}
