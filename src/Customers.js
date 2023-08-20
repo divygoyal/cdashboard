@@ -98,7 +98,7 @@ return (
               <div className="info">
                 <div className="names" >Buyer Name: {user.name}</div>
                 <div className="names" >Location: {user.location}</div>
-                <div className="names" style={{ borderBottomLeftRadius: '10px'}}>Colour: white</div>
+                // <div className="names" style={{ borderBottomLeftRadius: '10px'}}>Colour: white</div>
               </div>
               
           </div>
